@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Complete React practice",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Learn Express.js",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Build Todo App",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Revise JavaScript concepts",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Complete DSA problems",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "title": "Read MongoDB documentation",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "Push project to GitHub",
+    "completed": true
+  }
+]
